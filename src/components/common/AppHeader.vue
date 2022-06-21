@@ -6,7 +6,6 @@
     <div class="navigations">
       <router-link to="/login">로그인</router-link>
       <router-link to="/signup">회원가입</router-link>
-      <router-link to="/test">indexedDB테스트</router-link>
     </div>
   </header>
 </template>
